@@ -538,6 +538,15 @@
         "source_code": ""
     },
     {
+        "name": "Quintessential",
+        "url": "https://covid-api.quintessential.gr/data",
+        "author": "Praphul Samavedam",
+        "github_username": "PraphulSamavedam",
+        "tags": ["v_1.0.0"],
+        "description": "Covid-19 Virus Data from Johns Hopkins CSSE ",
+        "source_code": "https://github.com/PraphulSamavedam/webdataconnector/tree/master/covid"
+    },
+    {
         "name": "Rally CA Agile",
         "url": "https://k504866430.github.io/rally-tableau",
         "author": "Harsh Agrawal",
